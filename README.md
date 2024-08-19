@@ -1,5 +1,7 @@
 使用QTcpSocket构建服务端和客户端的通信  
-![image](https://github.com/wang19950805/QtTcpProject/blob/master/server.jpg)  ![image](https://github.com/wang19950805/QtTcpProject/blob/master/cilent.jpg)
+
+
+    ![image](https://github.com/wang19950805/QtTcpProject/blob/master/server.jpg)  ![image](https://github.com/wang19950805/QtTcpProject/blob/master/cilent.jpg)
 
 
 server:  
